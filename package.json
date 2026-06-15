@@ -1,5 +1,25 @@
 {
+  "name": "crud-livros-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/alexandredasilvaarruda23-ctrl/CRUD-LIVROS-MVC#readme",
+  "bugs": {
+    "url": "https://github.com/alexandredasilvaarruda23-ctrl/CRUD-LIVROS-MVC/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandredasilvaarruda23-ctrl/CRUD-LIVROS-MVC.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
